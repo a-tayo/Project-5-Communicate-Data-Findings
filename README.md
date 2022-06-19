@@ -29,3 +29,9 @@ I started by looking at the distribution of the variable of interest `LoanStatus
 
 I also investigated the other variables one by one plotting their distribution with histograms.
 Finally, i investigated the effect of these variables on the interaction between loan status and emploment status using both boxplot and point plot.
+
+## Acknowledgements 
+
+A very big thank you to (Access Bank plc)[https://www.linkedin.com/company/access-bank-plc/] and their (advance africa program)[https://www.udacity.com/scholarships/accessbank] without which i would not have been able to participate in this program.
+Also a big shout out to Udacity for their well packaged and sound curriculum. More power to your elbows.
+Finally, thanks to my parents, teachers and all who have helped me to be who i am today.
